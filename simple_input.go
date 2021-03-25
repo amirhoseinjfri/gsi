@@ -12,6 +12,5 @@ func Input(message string) string {
 	fmt.Printf("%s", message)
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
-	//returning as string
 	return scanner.Text()
 }
