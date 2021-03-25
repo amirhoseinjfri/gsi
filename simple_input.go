@@ -1,4 +1,4 @@
-package simple_input
+package gsi
 
 import (
 	"bufio"
