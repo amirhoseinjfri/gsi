@@ -3,7 +3,7 @@
 this is the simplest way to get input from user !
 
 <h2>Getting Started</h2>
-type this in the console for installing  👇 :
+type this in the console for installing Latest Version 👇 :
 <pre>go get -u github.com/amirhoseinjfri/gsi</pre>
 
 <h2>Example</h2>
