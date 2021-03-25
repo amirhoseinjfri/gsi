@@ -7,7 +7,7 @@ import (
 )
 
 //Func Input getting message as text to show to user
-//returnin Scanned Text as string
+//returing Scanned Text as string
 func Input(message string) string {
 	fmt.Printf("%s", message)
 	scanner := bufio.NewScanner(os.Stdin)
