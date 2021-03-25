@@ -10,4 +10,4 @@ type this in the console for installing Latest Version 👇 :
 <pre>ui := gsi.Input("hey what is your name ?")
 fmt.Printf("hi %s Welcome!",ui)</pre>
 
-<blockquote>Gsi is under development from noob people  👻</blockquote>
+<blockquote>Gsi is under development by noob people  👻</blockquote>
