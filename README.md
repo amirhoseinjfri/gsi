@@ -1,6 +1,6 @@
 # Go Simple Input => GSI
 
-this is the simplest way to get input from user
+this is the simplest way to get input from user !
 
 <h2>Getting Started</h2>
 type this in the console for installing  👇 :
